@@ -25,3 +25,12 @@ End
 Israel Oladeji
 ## Peer Reviewer :
 Moses Adegoke
+---
+
+### Peer Review Suggestion - Moses Adegoke
+
+**Add a Guess Limit**
+
+I feel to make the game more interesting, the program can limit the player to 3 or 5 attempts at maximum. This will make the game more challenging and gives the players a sense of urgency and critical reasoning.
+
+
